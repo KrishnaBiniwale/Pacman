@@ -1,2 +1,2 @@
 # Pacman
-A recreation of perhaps the most famous videogame ever created, Pacman.
+A small recreation of perhaps the most famous videogame ever created, Pacman.
